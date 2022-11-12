@@ -28,3 +28,5 @@ for tame in r:
     total_tame += tame[1]
 
     print(f'Три песни звучат - {total_tame} минут')
+    
+#     Отлично
