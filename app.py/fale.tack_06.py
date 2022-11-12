@@ -24,3 +24,4 @@ loan = abs(all_sallary - exp_total)
 print ("Необходимо взять в долг" , round (loan, 2))
 
 
+# Отлично
