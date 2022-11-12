@@ -23,3 +23,4 @@ for popul in list_1:
 
 print(f'Сумма населения городов- {TotalSum} человек')
 
+# Отлично
